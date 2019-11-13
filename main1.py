@@ -1,2 +1,1 @@
 print('dadad')
-print('da')
